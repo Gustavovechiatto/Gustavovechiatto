@@ -16,23 +16,17 @@ Tenho interesse em me especializar em **Python e JavaScript**, com foco em desen
 
 ## 🛠️ Stacks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,mysql" />
 </p>
 
 ---
 
-## 🌐 Social Media
-<p align="left">
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+### Social Media
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
+[![DISCORD](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/819954175173328906)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
+[![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:yryurodriguess@gmail.com)
 
 ---
 
