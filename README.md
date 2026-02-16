@@ -9,6 +9,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e possuo conhe
 - 🌐 JavaScript  
 - 📄 HTML & CSS  
 - 🗄️ SQL  
+- 🐳 Docker   
 
 Tenho interesse em me especializar em **Python e JavaScript**, com foco em desenvolvimento Frond-end, e estou sempre buscando aprender novas tecnologias e boas práticas de programação.
 
@@ -16,7 +17,7 @@ Tenho interesse em me especializar em **Python e JavaScript**, com foco em desen
 
 ## 🛠️ Stacks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,github,mysql,docker" />
 </p>
 
 ---
