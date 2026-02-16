@@ -22,7 +22,7 @@ Tenho interesse em me especializar em **Python e JavaScript**, com foco em desen
 ---
 
 ### Social Media
-[![LINKEDIN](https://www.linkedin.com/in/gustavo-vechiatto-ba073126a/)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/gustavo-vechiatto-ba073126a/)
 [![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:guvechiattosantos@gmail.com)
 
 ---
